@@ -1,0 +1,49 @@
+#satauri{
+	margin-right:210px;
+	margin-top: 200px;
+	text-align: center;
+	color: #000000;
+	font-size: 70px ;
+	text-decoration: line-through;
+	text-decoration-color: blueviolet;
+	text-decoration-thickness: 30px;
+	text-decoration-style: wavy;
+}
+
+.qvesatauri{
+	text-align: center;
+	font-size: 80px;
+	font-style:italic;
+}
+
+.logo{
+	color: black;
+	text-align: center;
+	font-size: 200px;
+	background-color: red;
+	color: yellow;
+	text-shadow: 5px 20px 0px black;
+
+}
+
+.inf{
+	text-align: justify;
+	background-color: #ffff99 ;
+	width: 70%;
+	font-size: 25px;
+	padding: 20px 40px;
+	margin: 30px;
+}
+
+.inf h2{
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.inf p{
+	text-indent: 50px;
+
+}
+.demo span{
+	color: darkred;
+}
